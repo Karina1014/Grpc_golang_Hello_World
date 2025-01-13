@@ -50,6 +50,10 @@ Open a new terminal and run the client:
   ```
 **The client will send requests to the server, and you'll see the responses in the terminal.**
 
+##Result:
+
+![image](https://github.com/user-attachments/assets/65492a8f-2356-4777-a158-5c8b7e264b9b)
+
 🎉 That's it! Your gRPC application is now up and running.
 
 
